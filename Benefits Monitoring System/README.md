@@ -1,28 +1,26 @@
-# Payroll-Management-System
+# Benefits-Monitoring-System
 
-A simple Payroll Management System where you can 
+An efficient Benefits Monitoring System designed to manage and update employee benefits with the following features:
 
-Add
-Update
-Delete
-Search 
+User Authentication
+--
+-Login: Secure login for authorized access.
 
-Employees from the System
+Employee Management
+The system allows you to:
+--
 
-Add
-Update
-Delete 
+-Enter Employee: Add new employees to the system.
 
-Salary details
+-Update Employee: Modify existing employee details.
 
-Add
-Update
-Delete 
+-Delete Employee: Remove employees from the system.
 
-Leave details 
+-Search Employee: Search for employees within the system.
 
-Generate and Print Pay Slips
+Benefits Management
+--
 
-Database file is also included
+-Update Benefits: The main purpose of the system is to update and manage the benefits of employees effectively.
 
-GUI is done using Java Swing Framework
+
